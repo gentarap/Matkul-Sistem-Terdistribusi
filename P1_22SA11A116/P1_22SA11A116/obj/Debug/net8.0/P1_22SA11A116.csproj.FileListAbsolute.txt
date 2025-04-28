@@ -1,0 +1,14 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\bin\Debug\net8.0\P1_22SA11A116.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\bin\Debug\net8.0\P1_22SA11A116.deps.json
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\bin\Debug\net8.0\P1_22SA11A116.runtimeconfig.json
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\bin\Debug\net8.0\P1_22SA11A116.dll
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\bin\Debug\net8.0\P1_22SA11A116.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.AssemblyInfoInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.AssemblyInfo.cs
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.dll
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\refint\P1_22SA11A116.dll
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\P1_22SA11A116.genruntimeconfig.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P1_22SA11A116\P1_22SA11A116\obj\Debug\net8.0\ref\P1_22SA11A116.dll
