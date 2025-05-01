@@ -1,0 +1,6 @@
+Nama Mahasiswa, Nilai
+Budi, 85
+Siti, 90
+Agus, 78
+Dewi, 88
+Nilai semua mahasiswa

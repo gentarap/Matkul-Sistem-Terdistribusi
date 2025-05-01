@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72949FCA-F316-4F72-851F-8BD3CE758EB0}|P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{72949FCA-F316-4F72-851F-8BD3CE758EB0}|P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116.csproj|solutionrelative:P2ASPNET_22SA11A116\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72949FCA-F316-4F72-851F-8BD3CE758EB0}|P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\p2aspnet_22sa11a116\\p2aspnet_22sa11a116\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72949FCA-F316-4F72-851F-8BD3CE758EB0}|P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116.csproj|solutionrelative:p2aspnet_22sa11a116\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116\\index.aspx",
+              "RelativeDocumentMoniker": "P2ASPNET_22SA11A116\\index.aspx",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116\\index.aspx",
+              "RelativeToolTip": "P2ASPNET_22SA11A116\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T05:52:52.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116\\index.aspx.cs",
+              "RelativeDocumentMoniker": "P2ASPNET_22SA11A116\\index.aspx.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\P2ASPNET_22SA11A116\\P2ASPNET_22SA11A116\\index.aspx.cs",
+              "RelativeToolTip": "P2ASPNET_22SA11A116\\index.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:53:30.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
