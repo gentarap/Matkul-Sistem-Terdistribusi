@@ -1,0 +1,10 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\bin\Debug\P3_22SA11A116-Mahasiswa.exe.config
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\bin\Debug\P3_22SA11A116-Mahasiswa.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\bin\Debug\P3_22SA11A116-Mahasiswa.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116-Mahasiswa.csproj.AssemblyReference.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116_Mahasiswa.Form1.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116_Mahasiswa.Properties.Resources.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116-Mahasiswa.csproj.GenerateResource.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116-Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116-Mahasiswa.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P3_22SA11A116-Mahasiswa\P3_22SA11A116-Mahasiswa\obj\Debug\P3_22SA11A116-Mahasiswa.pdb
