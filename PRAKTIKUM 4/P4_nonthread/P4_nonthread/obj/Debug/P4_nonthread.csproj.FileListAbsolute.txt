@@ -1,0 +1,7 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\bin\Debug\P4_nonthread.exe.config
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\bin\Debug\P4_nonthread.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\bin\Debug\P4_nonthread.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\obj\Debug\P4_nonthread.csproj.AssemblyReference.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\obj\Debug\P4_nonthread.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\obj\Debug\P4_nonthread.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\P4_nonthread\P4_nonthread\obj\Debug\P4_nonthread.pdb

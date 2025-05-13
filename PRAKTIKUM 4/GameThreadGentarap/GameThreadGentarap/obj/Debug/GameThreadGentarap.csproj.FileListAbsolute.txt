@@ -1,0 +1,10 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\bin\Debug\GameThreadGentarap.exe.config
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\bin\Debug\GameThreadGentarap.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\bin\Debug\GameThreadGentarap.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.csproj.AssemblyReference.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.Form1.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.Properties.Resources.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.csproj.GenerateResource.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\GameThreadGentarap\GameThreadGentarap\obj\Debug\GameThreadGentarap.pdb
