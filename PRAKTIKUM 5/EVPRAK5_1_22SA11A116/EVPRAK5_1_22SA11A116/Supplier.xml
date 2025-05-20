@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Suppliers>
+	<Supplier>
+		<Kode_Supplier>SUP0001</Kode_Supplier>
+		<Nama_Supplier>PT Gentar Abadi</Nama_Supplier>
+		<Alamat>Jl. Pahlawan</Alamat>
+	</Supplier>
+	<Supplier>
+		<Kode_Supplier>SUP0002</Kode_Supplier>
+		<Nama_Supplier>PT MajuGentar</Nama_Supplier>
+		<Alamat>Jl. Tanjung</Alamat>
+	</Supplier>
+	<Supplier>
+		<Kode_Supplier>SUP0003</Kode_Supplier>
+		<Nama_Supplier>CV GentarSemangat</Nama_Supplier>
+		<Alamat>Jl. Margantara</Alamat>
+	</Supplier>
+	<Supplier>
+		<Kode_Supplier>SUP0004</Kode_Supplier>
+		<Nama_Supplier>CV MerdekaGentar</Nama_Supplier>
+		<Alamat>Jl. Merbabu</Alamat>
+	</Supplier>
+	<Supplier>
+		<Kode_Supplier>SUP0005</Kode_Supplier>
+		<Nama_Supplier>CV Pantang Mundur tak Gentar</Nama_Supplier>
+		<Alamat>Jl. Pukis</Alamat>
+	</Supplier>
+</Suppliers>
+

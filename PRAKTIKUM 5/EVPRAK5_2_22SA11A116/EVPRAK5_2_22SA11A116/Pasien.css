@@ -1,0 +1,58 @@
+﻿/* Body styling */
+body {
+    background-color: #3498db;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Judul seperti h2 */
+Pasien::before {
+    content: "Data Pasien";
+    display: block;
+    font-size: 28px;
+    font-weight: bold;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Tabel styling */
+Pasien {
+    display: table;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Baris data */
+DataPasien {
+    display: table-row;
+
+}
+
+/* Kolom */
+No_RM, Nama_Pasien, Tgl_Lahir, Alamat {
+    display: table-cell;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Baris header (pertama) styling manual */
+DataPasien:first-of-type No_RM,
+DataPasien:first-of-type Nama_Pasien,
+DataPasien:first-of-type Tgl_Lahir,
+DataPasien:first-of-type Alamat {
+    font-weight: bold;
+    background-color: #3498db;
+    color: white;
+}
+
+/* Zebra stripes */
+DataPasien:nth-child(even):not(:first-of-type) {
+    background-color: #ecf0f1;
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVPRAK5_2_22SA11A116", "EVPRAK5_2_22SA11A116\EVPRAK5_2_22SA11A116.csproj", "{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C886B124-E579-4FC7-A055-659EF7E46B8B}
+	EndGlobalSection
+EndGlobal

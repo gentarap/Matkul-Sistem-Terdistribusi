@@ -1,0 +1,5 @@
+﻿<!ELEMENT data_mahasiswa (mahasiswa+)>
+<!ELEMENT mahasiswa (nim,nama,prodi)>
+<!ELEMENT nim (#PCDATA)>
+<!ELEMENT nama (#PCDATA)>
+<!ELEMENT prodi (#PCDATA)>

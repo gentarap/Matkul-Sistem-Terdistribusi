@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\evprak5_2_22sa11a116\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|solutionrelative:evprak5_2_22sa11a116\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\evprak5_2_22sa11a116\\evprak5_2_22sa11a116\\pasien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|solutionrelative:evprak5_2_22sa11a116\\pasien.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\evprak5_2_22sa11a116\\pasien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5CC7EC9F-75DE-4092-A31F-6407CD8002CC}|EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116.csproj|solutionrelative:evprak5_2_22sa11a116\\pasien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pasien.css",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Pasien.css",
+              "RelativeDocumentMoniker": "EVPRAK5_2_22SA11A116\\Pasien.css",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Pasien.css",
+              "RelativeToolTip": "EVPRAK5_2_22SA11A116\\Pasien.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T19:45:20.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Index.html",
+              "RelativeDocumentMoniker": "EVPRAK5_2_22SA11A116\\Index.html",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Index.html",
+              "RelativeToolTip": "EVPRAK5_2_22SA11A116\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-08T19:41:35.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pasien.xml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Pasien.xml",
+              "RelativeDocumentMoniker": "EVPRAK5_2_22SA11A116\\Pasien.xml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_2_22SA11A116\\EVPRAK5_2_22SA11A116\\Pasien.xml",
+              "RelativeToolTip": "EVPRAK5_2_22SA11A116\\Pasien.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-08T19:40:13.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

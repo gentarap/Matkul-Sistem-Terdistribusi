@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\praktikum5_1_22sa11a116\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|solutionrelative:praktikum5_1_22sa11a116\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\praktikum5_1_22sa11a116\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|solutionrelative:praktikum5_1_22sa11a116\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\praktikum5_1_22sa11a116\\praktikum5_1_22sa11a116\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7081A132-BCD6-42B0-AF60-0102F9FC09B8}|Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116.csproj|solutionrelative:praktikum5_1_22sa11a116\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Praktikum5_1_22SA11A116\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Praktikum5_1_22SA11A116\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:10:44.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Praktikum5_1_22SA11A116\\WebForm1.aspx",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\WebForm1.aspx",
+              "RelativeToolTip": "Praktikum5_1_22SA11A116\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T18:07:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Praktikum5_1_22SA11A116\\XMLFile1.xml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\Praktikum5_1_22SA11A116\\Praktikum5_1_22SA11A116\\XMLFile1.xml",
+              "RelativeToolTip": "Praktikum5_1_22SA11A116\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-08T18:03:31.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

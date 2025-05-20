@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE data_mahasiswa SYSTEM "mhs.dtd">
+<data_mahasiswa>
+	<mahasiswa>
+		<nim>22SA11A116</nim>
+		<nama>Gentar Jr</nama>
+		<prodi>Pertambangan</prodi>
+	</mahasiswa>
+
+	<mahasiswa>
+		<nim>22SA000222</nim>
+		<nama>Sumbuls</nama>
+		<prodi>Sistem Informasi</prodi>
+	</mahasiswa>
+
+	<mahasiswa>
+		<nim>22SA000309</nim>
+		<nama>Kuntaiman</nama>
+		<prodi>Agroteknologi</prodi>
+	</mahasiswa>
+</data_mahasiswa>
+

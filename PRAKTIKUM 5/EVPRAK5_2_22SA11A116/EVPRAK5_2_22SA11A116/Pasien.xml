@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="pasien.css"?>
+<!DOCTYPE Pasien [
+	<!ELEMENT Pasien (DataPasien+)>
+	<!ELEMENT DataPasien (No_RM, Nama_Pasien, Tgl_Lahir, Alamat)>
+	<!ELEMENT No_RM (#PCDATA)>
+	<!ELEMENT Nama_Pasien (#PCDATA)>
+	<!ELEMENT Tgl_Lahir (#PCDATA)>
+	<!ELEMENT Alamat (#PCDATA)>
+]>
+<Pasien>
+	<DataPasien>
+		<No_RM>No RM</No_RM>
+		<Nama_Pasien>Nama Pasien</Nama_Pasien>
+		<Tgl_Lahir>Tanggal Lahir</Tgl_Lahir>
+		<Alamat>Alamat</Alamat>
+	</DataPasien>
+	<DataPasien>
+		<No_RM>22.06.9.01</No_RM>
+		<Nama_Pasien>Budiono</Nama_Pasien>
+		<Tgl_Lahir>22-10-1999</Tgl_Lahir>
+		<Alamat>Jl. Veteran No 4</Alamat>
+	</DataPasien>
+	<DataPasien>
+		<No_RM>22.06.9.02</No_RM>
+		<Nama_Pasien>Agus Prada</Nama_Pasien>
+		<Tgl_Lahir>01-01-2000</Tgl_Lahir>
+		<Alamat>Jl. Mangga No 5</Alamat>
+	</DataPasien>
+	<DataPasien>
+		<No_RM>22.06.9.03</No_RM>
+		<Nama_Pasien>Dian Utami</Nama_Pasien>
+		<Tgl_Lahir>14-02-2000</Tgl_Lahir>
+		<Alamat>Jl. Kenanga No 10</Alamat>
+	</DataPasien>
+	<DataPasien>
+		<No_RM>22.06.9.04</No_RM>
+		<Nama_Pasien>Fahrenza Pasha</Nama_Pasien>
+		<Tgl_Lahir>01-02-2001</Tgl_Lahir>
+		<Alamat>Jl. Payung No 3</Alamat>
+	</DataPasien>
+	<DataPasien>
+		<No_RM>22.06.9.05</No_RM>
+		<Nama_Pasien>Rizki Nur</Nama_Pasien>
+		<Tgl_Lahir>24-01-2019</Tgl_Lahir>
+		<Alamat>Jl. Kaki No 9</Alamat>
+	</DataPasien>
+</Pasien>
+

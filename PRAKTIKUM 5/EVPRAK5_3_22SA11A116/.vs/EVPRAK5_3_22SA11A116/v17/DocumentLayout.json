@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\evprak5_3_22sa11a116\\evprak5_3_22sa11a116\\karyawan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|solutionrelative:evprak5_3_22sa11a116\\karyawan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\evprak5_3_22sa11a116\\evprak5_3_22sa11a116\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|solutionrelative:evprak5_3_22sa11a116\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\evprak5_3_22sa11a116\\evprak5_3_22sa11a116\\karyawan.dtd||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|solutionrelative:evprak5_3_22sa11a116\\karyawan.dtd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\evprak5_3_22sa11a116\\evprak5_3_22sa11a116\\karyawan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4415C3EB-6EDB-4DFC-AD3B-DCC20E275E86}|EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116.csproj|solutionrelative:evprak5_3_22sa11a116\\karyawan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Index.html",
+              "RelativeDocumentMoniker": "EVPRAK5_3_22SA11A116\\Index.html",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Index.html",
+              "RelativeToolTip": "EVPRAK5_3_22SA11A116\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-08T20:13:55.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karyawan.css",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.css",
+              "RelativeDocumentMoniker": "EVPRAK5_3_22SA11A116\\Karyawan.css",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.css",
+              "RelativeToolTip": "EVPRAK5_3_22SA11A116\\Karyawan.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T20:10:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Karyawan.dtd",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.dtd",
+              "RelativeDocumentMoniker": "EVPRAK5_3_22SA11A116\\Karyawan.dtd",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.dtd",
+              "RelativeToolTip": "EVPRAK5_3_22SA11A116\\Karyawan.dtd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003572|",
+              "WhenOpened": "2025-04-08T20:09:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Karyawan.xml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.xml",
+              "RelativeDocumentMoniker": "EVPRAK5_3_22SA11A116\\Karyawan.xml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\EVPRAK5_3_22SA11A116\\EVPRAK5_3_22SA11A116\\Karyawan.xml",
+              "RelativeToolTip": "EVPRAK5_3_22SA11A116\\Karyawan.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-08T20:06:53.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

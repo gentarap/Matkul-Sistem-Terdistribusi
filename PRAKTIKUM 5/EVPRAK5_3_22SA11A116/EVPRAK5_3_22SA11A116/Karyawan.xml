@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="karyawan.css"?>
+<!DOCTYPE Karyawan SYSTEM "Karyawan.dtd">
+<Karyawan>
+
+	<!-- Baris header manual -->
+	<DataKaryawan>
+		<IdKaryawan>ID</IdKaryawan>
+		<NamaKaryawan>Nama</NamaKaryawan>
+		<Gaji>Gaji</Gaji>
+		<Jabatan>Jabatan</Jabatan>
+	</DataKaryawan>
+
+	<!-- Baris data -->
+	<DataKaryawan>
+		<IdKaryawan>KR001</IdKaryawan>
+		<NamaKaryawan>Rudiana</NamaKaryawan>
+		<Gaji>2500000</Gaji>
+		<Jabatan>Admin</Jabatan>
+	</DataKaryawan>
+	<DataKaryawan>
+		<IdKaryawan>AT001</IdKaryawan>
+		<NamaKaryawan>Jordy Pratama</NamaKaryawan>
+		<Gaji>3000000</Gaji>
+		<Jabatan>Manajer Utama</Jabatan>
+	</DataKaryawan>
+	<DataKaryawan>
+		<IdKaryawan>AT002</IdKaryawan>
+		<NamaKaryawan>Setiawan</NamaKaryawan>
+		<Gaji>2700000</Gaji>
+		<Jabatan>Staf Keuangan</Jabatan>
+	</DataKaryawan>
+	<DataKaryawan>
+		<IdKaryawan>KR002</IdKaryawan>
+		<NamaKaryawan>Fiana Naila</NamaKaryawan>
+		<Gaji>1500000</Gaji>
+		<Jabatan>Cleaning Service</Jabatan>
+	</DataKaryawan>
+	<DataKaryawan>
+		<IdKaryawan>KR003</IdKaryawan>
+		<NamaKaryawan>Dinda Kurniasih</NamaKaryawan>
+		<Gaji>2000000</Gaji>
+		<Jabatan>Customer Service</Jabatan>
+	</DataKaryawan>
+</Karyawan>
+

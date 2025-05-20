@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfProduk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Produk>
+		<Kode_produk>1</Kode_produk>
+		<Nama_produk>Laptop OPPA</Nama_produk>
+		<Deskripsi>Laptop yang sangat Canggih dan mutakhir</Deskripsi>
+		<Harga>500.000</Harga>
+	</Produk>
+	<Produk>
+		<Kode_produk>2</Kode_produk>
+		<Nama_produk>Smartphone</Nama_produk>
+		<Deskripsi>Smartphone super Canggih</Deskripsi>
+		<Harga>400.99</Harga>
+	</Produk>
+	<Produk>
+		<Kode_produk>3</Kode_produk>
+		<Nama_produk>Laptop USAS</Nama_produk>
+		<Deskripsi>Dilengkapi dengan teknolohi AI</Deskripsi>
+		<Harga>100.000</Harga>
+	</Produk>
+</ArrayOfProduk>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentdetails>
+	<student>
+		<name>Gentar Asmara Putra</name>
+		<id>221</id>
+		<age>22</age>
+	</student>	
+	<student>
+		<name>Asmara</name>
+		<id>222</id>
+		<age>20</age>
+	</student>
+	<student>
+		<name>Putra</name>
+		<id>223</id>
+		<age>32</age>
+	</student>
+	<student>
+		<name>Dimas</name>
+		<id>224</id>
+		<age>28</age>
+	</student>
+</studentdetails>

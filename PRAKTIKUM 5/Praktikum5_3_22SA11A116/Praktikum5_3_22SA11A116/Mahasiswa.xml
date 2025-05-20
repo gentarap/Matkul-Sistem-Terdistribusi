@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE daftar_mahasiswa [
+	<!ELEMENT daftar_mahasiswa (mahasiswa+)>
+	<!ELEMENT mahasiswa (nim, nama, prodi)>
+	<!ELEMENT nim (#PCDATA)>
+	<!ELEMENT nama (#PCDATA)>
+	<!ELEMENT prodi (#PCDATA)>
+]>
+<daftar_mahasiswa>
+	<mahasiswa>
+		<nim>22SA11A116</nim>
+		<nama>Gentar Asmara Putra</nama>
+		<prodi>Informatika</prodi>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>22SA11O116</nim>
+		<nama>Siti Aminah</nama>
+		<prodi>Teknik Informatika</prodi>
+	</mahasiswa>
+</daftar_mahasiswa>
+

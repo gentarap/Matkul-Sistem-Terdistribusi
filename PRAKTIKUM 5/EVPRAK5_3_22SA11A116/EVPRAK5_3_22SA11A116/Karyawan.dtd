@@ -1,0 +1,6 @@
+﻿<!ELEMENT Karyawan (DataKaryawan+)>
+<!ELEMENT DataKaryawan (IdKaryawan, NamaKaryawan, Gaji, Jabatan)>
+<!ELEMENT IdKaryawan (#PCDATA)>
+<!ELEMENT NamaKaryawan (#PCDATA)>
+<!ELEMENT Gaji (#PCDATA)>
+<!ELEMENT Jabatan (#PCDATA)>
