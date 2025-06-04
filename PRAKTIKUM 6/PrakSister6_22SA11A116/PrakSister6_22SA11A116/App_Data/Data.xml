@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+  <Data>
+    <IdBuku>1</IdBuku>
+    <JudulBuku>Sistem Terdistribusi</JudulBuku>
+    <Deskripsi>
+			Buku ini menjelaskan teori-teori dasar dalam sister serta praktik membuat aplikasi berbasis sister
+		</Deskripsi>
+  </Data>
+  <Data>
+    <IdBuku>2</IdBuku>
+    <JudulBuku>Knowledge Management</JudulBuku>
+    <Deskripsi>			Buku ini membahas tentang langkah-langkah jitu dalam implementasi KM di suatu organisasi		</Deskripsi>
+  </Data>
+  <Data>
+    <IdBuku>3</IdBuku>
+    <JudulBuku>Gentar Asmara</JudulBuku>
+    <Deskripsi>Selamat Malam Temanku semua</Deskripsi>
+  </Data>
+</Datas>

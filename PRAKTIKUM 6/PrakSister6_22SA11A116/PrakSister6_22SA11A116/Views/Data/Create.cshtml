@@ -1,0 +1,24 @@
+﻿@model DataModel
+
+@{
+    ViewBag.Title = "Tambah Data Baru";
+}
+
+<h2>Tambah Data Baru</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.JudulBuku)
+        @Html.TextBoxFor(m => m.JudulBuku, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Deskripsi)
+        @Html.TextBoxFor(m => m.Deskripsi, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Simpan</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Batal</a>
+}
+

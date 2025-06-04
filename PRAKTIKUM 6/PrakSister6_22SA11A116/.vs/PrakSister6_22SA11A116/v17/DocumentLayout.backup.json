@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\praksister6_22sa11a116\\praksister6_22sa11a116\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\views\\data\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\views\\data\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\views\\data\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\views\\data\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\views\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\views\\data\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\app_data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\app_data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\praksister6_22sa11a116\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C0B39C-0514-4B73-8666-2ECE7B62D00D}|PrakSister6_22SA11A116\\PrakSister6_22SA11A116.csproj|solutionrelative:praksister6_22sa11a116\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:53:58.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\Views\\Data\\Delete.cshtml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Delete.cshtml",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\Views\\Data\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:49:24.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\Views\\Data\\Edit.cshtml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Edit.cshtml",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\Views\\Data\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:45:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\Views\\Data\\Create.cshtml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Create.cshtml",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\Views\\Data\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:43:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\Views\\Data\\Index.cshtml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\Views\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:33:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\Controllers\\DataController.cs",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\Controllers\\DataController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:25:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\DataRepository.cs",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\DataRepository.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\DataRepository.cs",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\DataRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:16:29.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.xml",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\App_Data\\Data.xml",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\App_Data\\Data.xml",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\App_Data\\Data.xml",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\App_Data\\Data.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-15T14:11:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\DataModel.cs",
+              "RelativeDocumentMoniker": "PrakSister6_22SA11A116\\DataModel.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\PrakSister6_22SA11A116\\PrakSister6_22SA11A116\\DataModel.cs",
+              "RelativeToolTip": "PrakSister6_22SA11A116\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:06:47.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
