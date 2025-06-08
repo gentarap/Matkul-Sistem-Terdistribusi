@@ -1,0 +1,10 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\bin\Debug\ClientWcf_22SA11A116.exe.config
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\bin\Debug\ClientWcf_22SA11A116.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\bin\Debug\ClientWcf_22SA11A116.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.csproj.AssemblyReference.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.Form1.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.Properties.Resources.resources
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.csproj.GenerateResource.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.exe
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\ClientWcf_22SA11A116\ClientWcf_22SA11A116\obj\Debug\ClientWcf_22SA11A116.pdb

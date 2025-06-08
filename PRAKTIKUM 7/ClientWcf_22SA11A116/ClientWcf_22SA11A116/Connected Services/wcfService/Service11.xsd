@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tambah">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="a" type="xs:int" />
+        <xs:element minOccurs="0" name="b" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="tambahResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="tambahResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bagi">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="a" type="xs:double" />
+        <xs:element minOccurs="0" name="b" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bagiResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="bagiResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kali">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="a" type="xs:int" />
+        <xs:element minOccurs="0" name="b" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kaliResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kaliResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kurang">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="a" type="xs:int" />
+        <xs:element minOccurs="0" name="b" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="kurangResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kurangResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

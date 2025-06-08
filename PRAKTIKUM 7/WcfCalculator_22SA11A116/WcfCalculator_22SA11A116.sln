@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfCalculator_22SA11A116", "WcfCalculator_22SA11A116\WcfCalculator_22SA11A116.csproj", "{5339E41E-3557-4C78-BF73-1A843E8595B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5339E41E-3557-4C78-BF73-1A843E8595B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5339E41E-3557-4C78-BF73-1A843E8595B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5339E41E-3557-4C78-BF73-1A843E8595B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5339E41E-3557-4C78-BF73-1A843E8595B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C08426A-35BE-4D96-B4D6-CF577638CD46}
+	EndGlobalSection
+EndGlobal

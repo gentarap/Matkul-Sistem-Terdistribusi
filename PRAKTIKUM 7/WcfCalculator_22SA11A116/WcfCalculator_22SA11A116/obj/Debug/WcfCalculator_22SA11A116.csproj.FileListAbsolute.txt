@@ -1,0 +1,7 @@
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\bin\WcfCalculator_22SA11A116.dll.config
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\bin\WcfCalculator_22SA11A116.dll
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\bin\WcfCalculator_22SA11A116.pdb
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\obj\Debug\WcfCalculator_22SA11A116.csproj.AssemblyReference.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\obj\Debug\WcfCalculator_22SA11A116.csproj.CoreCompileInputs.cache
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\obj\Debug\WcfCalculator_22SA11A116.dll
+D:\Gentar Asmara Putra\Kuliah\Semester6\SISTER\WcfCalculator_22SA11A116\WcfCalculator_22SA11A116\obj\Debug\WcfCalculator_22SA11A116.pdb

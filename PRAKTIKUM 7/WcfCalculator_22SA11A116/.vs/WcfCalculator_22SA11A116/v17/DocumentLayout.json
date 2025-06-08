@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\wcfcalculator_22sa11a116\\wcfcalculator_22sa11a116\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|solutionrelative:wcfcalculator_22sa11a116\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\wcfcalculator_22sa11a116\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|solutionrelative:wcfcalculator_22sa11a116\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\wcfcalculator_22sa11a116\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5339E41E-3557-4C78-BF73-1A843E8595B9}|WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116.csproj|solutionrelative:wcfcalculator_22sa11a116\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\ICalculator.cs",
+              "RelativeDocumentMoniker": "WcfCalculator_22SA11A116\\ICalculator.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\ICalculator.cs",
+              "RelativeToolTip": "WcfCalculator_22SA11A116\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:07:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WcfCalculator_22SA11A116\\Service1.svc.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\Service1.svc.cs",
+              "RelativeToolTip": "WcfCalculator_22SA11A116\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:06:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\Web.config",
+              "RelativeDocumentMoniker": "WcfCalculator_22SA11A116\\Web.config",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfCalculator_22SA11A116\\WcfCalculator_22SA11A116\\Web.config",
+              "RelativeToolTip": "WcfCalculator_22SA11A116\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-20T08:15:24.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

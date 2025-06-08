@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|d:\\gentar asmara putra\\kuliah\\semester6\\sister\\wcfdbase_22sa11a116\\wcfdbase_22sa11a116\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|solutionrelative:wcfdbase_22sa11a116\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\wcfdbase_22sa11a116\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|solutionrelative:wcfdbase_22sa11a116\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\wcfdbase_22sa11a116\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|solutionrelative:wcfdbase_22sa11a116\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\wcfdbase_22sa11a116\\fungsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|solutionrelative:wcfdbase_22sa11a116\\fungsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\wcfdbase_22sa11a116\\entity\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0D83C-3D89-44CC-BCE7-335942ACED5E}|WcfDbase_22SA11A116\\WcfDbase_22SA11A116.csproj|solutionrelative:wcfdbase_22sa11a116\\entity\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\IEmployee.cs",
+              "RelativeDocumentMoniker": "WcfDbase_22SA11A116\\IEmployee.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\IEmployee.cs",
+              "RelativeToolTip": "WcfDbase_22SA11A116\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:22:05.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pegawai.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Entity\\Pegawai.cs",
+              "RelativeDocumentMoniker": "WcfDbase_22SA11A116\\Entity\\Pegawai.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Entity\\Pegawai.cs",
+              "RelativeToolTip": "WcfDbase_22SA11A116\\Entity\\Pegawai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:31:10.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fungsi.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Fungsi.cs",
+              "RelativeDocumentMoniker": "WcfDbase_22SA11A116\\Fungsi.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Fungsi.cs",
+              "RelativeToolTip": "WcfDbase_22SA11A116\\Fungsi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:27:44.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WcfDbase_22SA11A116\\Service1.svc.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Service1.svc.cs",
+              "RelativeToolTip": "WcfDbase_22SA11A116\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:11:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Koneksi.cs",
+              "RelativeDocumentMoniker": "WcfDbase_22SA11A116\\Koneksi.cs",
+              "ToolTip": "D:\\Gentar Asmara Putra\\Kuliah\\Semester6\\SISTER\\WcfDbase_22SA11A116\\WcfDbase_22SA11A116\\Koneksi.cs",
+              "RelativeToolTip": "WcfDbase_22SA11A116\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:24:50.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
