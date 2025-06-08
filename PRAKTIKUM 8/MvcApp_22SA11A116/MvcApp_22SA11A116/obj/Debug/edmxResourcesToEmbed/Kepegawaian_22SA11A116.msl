@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="kepegawaianModelStoreContainer" CdmEntityContainer="kepegawaianEntities">
+    <EntitySetMapping Name="pegawais">
+      <EntityTypeMapping TypeName="kepegawaianModel.pegawai">
+        <MappingFragment StoreEntitySet="pegawai">
+          <ScalarProperty Name="nip" ColumnName="nip" />
+          <ScalarProperty Name="nama" ColumnName="nama" />
+          <ScalarProperty Name="jenis_kelamin" ColumnName="jenis_kelamin" />
+          <ScalarProperty Name="alamat" ColumnName="alamat" />
+          <ScalarProperty Name="kode_jabatan" ColumnName="kode_jabatan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
